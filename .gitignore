@@ -1,0 +1,6 @@
+*.swp
+~$*
+._*
+.nfs*
+.DS_Store
+.AppleDouble
