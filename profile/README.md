@@ -1,4 +1,4 @@
-![adm Indicia on GitHub](https://github.com/indicia/.github/blob/main/adm-indicia-linkedin-banner_CROP_1755282194676.jpg) 
+![adm Indicia on GitHub](https://github.com/indicia/.github/blob/main/profile/adm-indicia-linkedin-banner_CROP_1755282194676.jpg) 
 
 ## We create and activate meaningful brand experiences that drive ROI
 
